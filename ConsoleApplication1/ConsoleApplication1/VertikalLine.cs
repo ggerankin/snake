@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class VertikalLine: Figure
+    class VertikalLine:Figure
     {
         
         public VertikalLine(int yUp, int yDown, int x, char sym)
