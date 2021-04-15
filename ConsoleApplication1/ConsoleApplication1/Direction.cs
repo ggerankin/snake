@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
+
     enum Direction
     {
         LEFT,
@@ -13,4 +14,5 @@ namespace ConsoleApplication1
         UP,
         DOWN
     }
+    
 }
